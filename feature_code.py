@@ -1,4 +1,4 @@
 Add something
 
 def feature2():
-	return "Awesome" 
+	return "Awesome stuff" 
